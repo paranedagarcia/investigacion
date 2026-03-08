@@ -1,4 +1,4 @@
-# Metodología de la Investigacion
+# Metodología de la Investigación
 
 La **investigación** se define como un conjunto de **procesos sistemáticos, críticos y empíricos** que se aplican al estudio de un fenómeno o problema con el objetivo de ampliar su conocimiento. Esta actividad es, en esencia, rigurosa, organizada y cuidadosa, asegurando que los hechos no se dejen a la casualidad.
 
