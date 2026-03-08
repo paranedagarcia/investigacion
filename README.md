@@ -198,7 +198,7 @@ La investigación es aplicable a cualquier profesión, no solo a la académica:
 
 En resumen, la investigación científica es un "motor de desarrollo" y un pilar fundamental para la excelencia profesional, permitiendo que las personas se adapten a entornos en constante cambio y resuelvan problemas reales con un método riguroso.
 
-## Habilidades de investigación son las más valoradas por los empleadores
+## Habilidades de investigación más valoradas por los empleadores
 Las habilidades de investigación más valoradas por los empleadores se centran en la capacidad de transformar datos en soluciones prácticas y decisiones estratégicas. Según las fuentes, las competencias más destacadas son las siguientes:
 
 ### 1. Pensamiento analítico y crítico
