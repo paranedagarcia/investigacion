@@ -1,5 +1,20 @@
 # Metodología de la Investigacion
-Metodologia de investigación y ejemplos cuantitativos
+
+La **investigación** se define como un conjunto de **procesos sistemáticos, críticos y empíricos** que se aplican al estudio de un fenómeno o problema con el objetivo de ampliar su conocimiento. Esta actividad es, en esencia, rigurosa, organizada y cuidadosa, asegurando que los hechos no se dejen a la casualidad.
+
+Su importancia general reside en dos propósitos fundamentales: la **producción de nuevo conocimiento y teorías** (investigación básica) y la **solución de problemas prácticos** (investigación aplicada). Para cualquier profesional, investigar es una herramienta indispensable para alcanzar el éxito, la competitividad y una toma de decisiones basada en evidencia.
+
+### Importancia en el ámbito de las ciencias de la ingeniería
+
+En la ingeniería, la investigación es el motor que impulsa el **progreso científico y el desarrollo tecnológico**. Su aplicación es crucial en diversas ramas:
+
+*   **Ingeniería Civil:** Es fundamental para realizar estudios de suelo antes de cualquier construcción, analizar la **resistencia de materiales** y estructuras bajo condiciones específicas, y entender las necesidades de los futuros usuarios para adaptar los diseños arquitectónicos. También permite determinar qué obras públicas son necesarias para optimizar la vialidad de una ciudad.
+*   **Ingeniería Industrial:** Resulta vital para **documentar y optimizar procesos**, probar productos mediante la experimentación y realizar análisis de flujos de producción para eliminar cuellos de botella. A través de la investigación cualitativa, un ingeniero puede identificar obstáculos percibidos por los trabajadores para lograr mejoras reales en la manufactura.
+*   **Ingeniería de Sistemas:** Facilita el desarrollo de software especializado para el monitoreo y evaluación del rendimiento de hardware, así como la creación de nuevos sistemas de control.
+*   **Ingeniería Química y de Minas:** Se utiliza para evaluar competencias técnicas valoradas en la industria y para consultar a expertos internacionales mediante métodos sistemáticos con el fin de resolver problemas complejos de producción.
+*   **Ingeniería Aeroespacial:** Es clave en fases de diseño conceptual, como la estimación de masa en sistemas de control ambiental de aeronaves o el análisis de desastres aéreos mediante **métodos mixtos** que integran datos técnicos y factores humanos.
+
+Finalmente, la investigación en ingeniería permite a los profesionales **innovar y mejorar la calidad** de productos y servicios. El dominio de la metodología de investigación otorga al ingeniero la autonomía necesaria para evaluar con rigor científico las innovaciones de su especialidad y aplicarlas eficientemente en su entorno laboral.
 
 ## Plantear objetivos de investigación
 Redactar los objetivos de investigación es un paso fundamental, ya que estos constituyen las **guías del estudio** y deben estar presentes durante todo su desarrollo. Según las fuentes, los pasos y criterios clave para redactarlos correctamente son:
