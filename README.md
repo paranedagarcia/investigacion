@@ -2,19 +2,19 @@
 
 Contenido del taller de Metodología de la Investigación.
 
-**[Investigacion.md](investigacion.md)**
+**[Investigacion.md](./investigacion.md)**
 
 Contenido teórico relativo a la metodología de investigación presentada en el taller.
 
-**[Presentación.pdf](Presentacion.pdf)**
+**[Presentación.pdf](./Presentacion.pdf)**
 
 Archivo de presentación del taller.
 
-**[Notebook](notebook/README.md)**
+**[Notebook](./notebook/README.md)**
 
 Contiene un ejemplo de uso con Ciencia de Datos para abordar un caso de investigación.
 
-**[Referencias](Referencias.md)**
+**[Referencias](./Referencias.md)**
 
 # Instalación
 
