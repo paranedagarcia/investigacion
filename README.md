@@ -13,3 +13,12 @@ Archivo de presentación del taller.
 **Notebook**
 
 Contiene un ejemplo de uso con Ciencia de Datos para abordar un caso de investigación.
+
+
+# Instalación
+
+## Requisitos
+
+### Python v 3.13
+
+### Visual Studio Code
