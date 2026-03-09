@@ -276,3 +276,38 @@ El dominio de la metodología de investigación permite al emprendedor:
 *   **Sistematizar la información:** Transformar datos dispersos en recomendaciones prácticas para la empresa.
 
 En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
+
+## Muestreo
+
+Los tipos de muestreo se dividen principalmente en dos grandes categorías: probabilístico y no probabilístico, dependiendo de si la selección de los individuos se basa en el azar o en el juicio del investigador.
+
+### 1. Muestreo Probabilístico (Aleatorio)
+En este método, todos los elementos de la población tienen una probabilidad conocida y mayor a cero de ser seleccionados, lo que minimiza sesgos y permite generalizar resultados.
+
+* **Muestreo Aleatorio Simple**: Cada individuo tiene la misma probabilidad de ser elegido, similar a un sorteo o lotería.
+
+* **Muestreo Sistemático**: Se elige un punto de partida al azar y luego se selecciona a cada "k-ésimo" individuo de una lista (por ejemplo, cada 10 personas).
+
+* **Muestreo Estratificado**: La población se divide en grupos con características comunes (estratos) y se toma una muestra aleatoria de cada uno para asegurar representación.
+
+* **Muestreo por Conglomerados**: La población se divide en grupos heterogéneos que ya existen naturalmente (como ciudades o escuelas), y se eligen grupos completos al azar para el estudio. 
+
+### 2. Muestreo No Probabilístico
+La selección no depende del azar, sino de criterios específicos, conveniencia o juicios subjetivos. Es más rápido y económico, pero no permite generalizaciones estadísticas estrictas.
+
+* **Muestreo por Conveniencia**: Se seleccionan los individuos que están más accesibles para el investigador.
+
+* **Muestreo por Cuotas**: El investigador asegura que la muestra incluya proporciones específicas de ciertos grupos (por ejemplo, 50% hombres y 50% mujeres), pero la selección final es a discreción.
+
+* **Muestreo de Bola de Nieve**: Se utiliza cuando la población es difícil de localizar; los participantes actuales reclutan a nuevos conocidos para el estudio.
+
+* **Muestreo Intencional o por Juicio**: El investigador selecciona a los sujetos basándose en su conocimiento experto sobre quién puede aportar la mejor información.
+
+
+**Referencias:**
+
+- [https://peru.universidadeuropea.com](https://peru.universidadeuropea.com/blog/tipos-de-muestreo/)
+- [https://corporatefinanceinstitute.com](https://translate.google.com/translate?u=https://corporatefinanceinstitute.com/resources/data-science/random-sampling/&hl=es&sl=en&tl=es&client=sge#:~:text=Hay%20cuatro%20m%C3%A9todos%20principales%20de%20muestreo%20aleatorio,muestreo%20estratificado%20y%20muestreo%20por%20conglomerados%20.)
+- [https://centrogeo.repositorioinstitucional.mx](https://centrogeo.repositorioinstitucional.mx/jspui/bitstream/1012/163/1/19-Tipos%20de%20Muestreo%20-%20%20Diplomado%20en%20An%C3%A1lisis%20de%20Informaci%C3%B3n%20Geoespacial.pdf#:~:text=Muestreo%20aleatorio%20estratificado.%20La%20poblaci%C3%B3n%20a%20partir,mediante%20un%20procedimiento%20aleatorio%20simple%20%28Figura%202%29.)
+- [https://www.surveylegend.com](https://translate.google.com/translate?u=https://www.surveylegend.com/sampling/types-of-survey-sampling/&hl=es&sl=en&tl=es&client=sge#:~:text=%C2%BFQu%C3%A9%20tipos%20de%20muestreo%20no%20probabil%C3%ADstico%20existen?,intencional%20y%20muestreo%20de%20bola%20de%20nieve.)
+- [https://masterresearch.mx](https://masterresearch.mx/tipos-de-muestras-en-investigacion-cualitativa/#:~:text=Muestreo%20de%20conveniencia:%20Se%20seleccionan%20los%20participantes,y%20econ%C3%B3mico%2C%20pero%20tambi%C3%A9n%20el%20menos%20riguroso.)
