@@ -10,8 +10,11 @@ En la ingeniería, la investigación es el motor que impulsa el **progreso cient
 
 *   **Ingeniería Civil:** Es fundamental para realizar estudios de suelo antes de cualquier construcción, analizar la **resistencia de materiales** y estructuras bajo condiciones específicas, y entender las necesidades de los futuros usuarios para adaptar los diseños arquitectónicos. También permite determinar qué obras públicas son necesarias para optimizar la vialidad de una ciudad.
 *   **Ingeniería Industrial:** Resulta vital para **documentar y optimizar procesos**, probar productos mediante la experimentación y realizar análisis de flujos de producción para eliminar cuellos de botella. A través de la investigación cualitativa, un ingeniero puede identificar obstáculos percibidos por los trabajadores para lograr mejoras reales en la manufactura.
+
 *   **Ingeniería de Sistemas:** Facilita el desarrollo de software especializado para el monitoreo y evaluación del rendimiento de hardware, así como la creación de nuevos sistemas de control.
+
 *   **Ingeniería Química y de Minas:** Se utiliza para evaluar competencias técnicas valoradas en la industria y para consultar a expertos internacionales mediante métodos sistemáticos con el fin de resolver problemas complejos de producción.
+
 *   **Ingeniería Aeroespacial:** Es clave en fases de diseño conceptual, como la estimación de masa en sistemas de control ambiental de aeronaves o el análisis de desastres aéreos mediante **métodos mixtos** que integran datos técnicos y factores humanos.
 
 Finalmente, la investigación en ingeniería permite a los profesionales **innovar y mejorar la calidad** de productos y servicios. El dominio de la metodología de investigación otorga al ingeniero la autonomía necesaria para evaluar con rigor científico las innovaciones de su especialidad y aplicarlas eficientemente en su entorno laboral.
@@ -25,7 +28,9 @@ El objetivo general debe ser un reflejo directo de la pregunta de investigación
 ### 2. Utilizar verbos en infinitivo
 Cada objetivo debe comenzar con un **verbo en infinitivo** (terminado en -ar, -er, -ir) que denote una acción de búsqueda de conocimiento.
 *   **En alcances cuantitativos:** Se suelen usar verbos como *describir, determinar, demostrar, examinar, analizar, estimar, comparar o relacionar*.
+
 *   **En alcances cualitativos:** Se prefieren verbos más abiertos como *entender, comprender, explorar, profundizar o descifrar*.
+
 *   **Importante:** Deben evitarse verbos ambiguos como "conocer" o "analizar" (si se usa solo), ya que no precisan la profundidad del estudio.
 
 ### 3. Seguir una estructura de redacción clara
@@ -34,6 +39,7 @@ Una sugerencia para estructurar la redacción de cada objetivo es la siguiente:
 
 ### 4. Distinguir entre Objetivo General y Específicos
 *   **Objetivo General:** Refleja el propósito central o fin último de la investigación.
+
 *   **Objetivos Específicos:** Son una fragmentación o descomposición del objetivo general. Para que sean correctos, deben cumplir tres criterios:
     *   **Necesidad:** Cada uno debe ser ineludible para alcanzar el general.
     *   **Suficiencia:** En conjunto, deben agotar el alcance del objetivo general.
@@ -48,7 +54,9 @@ Para que un objetivo sea válido, debe poseer las siguientes características:
 ### 6. Evitar errores comunes
 Al redactar, es crucial no caer en las siguientes confusiones:
 *   **Confundirlos con procedimientos:** No escribir "aplicar una encuesta" o "revisar la literatura", ya que estos son pasos del método, no metas de conocimiento.
+
 *   **Confundirlos con objetivos de intervención:** No usar verbos como "capacitar", "potenciar" o "motivar", ya que el fin de la investigación es producir conocimiento, no transformar la realidad directamente (salvo en diseños de investigación-acción).
+
 *   **Planteamientos dispersos:** No incluir más de una idea o investigación en un mismo objetivo.
 
 
@@ -58,11 +66,14 @@ Elegir entre un enfoque cuantitativo, cualitativo o mixto no implica que una rut
 ### 1. La naturaleza del problema de investigación
 Es el factor determinante más importante para seleccionar la ruta a seguir.
 *   **Enfoque Cuantitativo:** Se elige cuando el objetivo es **medir magnitudes**, establecer tendencias, probar hipótesis de causalidad o generalizar resultados de una muestra a una población mayor. Es ideal si se busca precisión, control sobre los fenómenos y la posibilidad de réplica y predicción.
+
 *   **Enfoque Cualitativo:** Se prefiere cuando se busca una **comprensión profunda** de un fenómeno en su entorno natural, centrándose en los significados, percepciones y experiencias de los participantes. Es el más adecuado para explorar temas poco estudiados o fenómenos difíciles de medir numéricamente.
+
 *   **Enfoque Mixto:** Se recomienda cuando el problema es **complejo** y requiere capturar tanto la realidad objetiva (datos numéricos) como la subjetiva (vivencias y significados). Es útil para obtener una "fotografía" más completa mediante la integración de ambos métodos.
 
 ### 2. El estado del conocimiento y la revisión de la literatura
 *   Si la literatura revela que hay mucha información, teorías sólidas y variables ya definidas, un alcance cuantitativo (como el descriptivo, correlacional o explicativo) suele ser más viable para iniciar el estudio.
+
 *   Si el conocimiento sobre el tema es incipiente o la ruta es "nebulosa", el enfoque cualitativo permite explorar e identificar conceptos y variables relevantes que antes no se habían considerado.
 
 ### 3. Conocimientos y entrenamiento del investigador
@@ -71,7 +82,9 @@ La elección también se ve influida por la preparación del investigador en cad
 ### 4. Recursos disponibles y tiempo
 Es fundamental evaluar la factibilidad del estudio basándose en los recursos humanos, materiales y económicos.
 *   Los diseños **cuantitativos** pueden requerir costos elevados si se usan múltiples diseños, pero a menudo son más rápidos si se utilizan instrumentos ya validados.
+
 *   Los estudios **cualitativos** demandan un tiempo considerable para la inmersión en el campo y el análisis continuo de grandes volúmenes de datos narrativos.
+
 *   La ruta **mixta** es generalmente la que exige mayor inversión de tiempo, personal especializado y recursos financieros, debido a la duplicidad de procesos de recolección y análisis.
 
 ### Resumen de criterios de elección
@@ -94,8 +107,11 @@ Una hipótesis de investigación no es una simple corazonada; debe ser **sistem�
 ### 2. Determinar la pertinencia según el alcance
 No todas las investigaciones deben formular hipótesis. Su elaboración depende del alcance inicial del estudio:
 *   **Exploratorio:** No se formulan hipótesis, ya que se desconoce el fenómeno; a veces el resultado de la investigación es la generación de una hipótesis.
+
 *   **Descriptivo:** Solo se formulan cuando se busca **pronosticar un valor** o dato específico en un tiempo determinado.
+
 *   **Correlacional:** Se elaboran hipótesis que establecen cómo dos o más variables están asociadas.
+
 *   **Explicativo (Causal):** Se formulan hipótesis que proponen una relación de **causa-efecto** entre variables.
 
 ### 3. Requisitos de redacción y contenido
@@ -110,12 +126,15 @@ Para que una hipótesis sea válida, debe cumplir con las siguientes caracterís
 ### 4. Clasificación de las hipótesis
 Al elaborar el protocolo, el investigador suele trabajar con tres tipos:
 1.  **Hipótesis de investigación (Hi):** La proposición tentativa sobre la relación entre variables.
+
 2.  **Hipótesis nulas (Ho):** Son el reverso de la de investigación; sirven para refutar o negar lo que la Hi afirma.
+
 3.  **Hipótesis alternativas (Ha):** Ofrecen explicaciones o descripciones distintas a la Hi y la Ho, siempre que existan otras posibilidades reales.
 
 ### 5. Definición de las variables
 Un paso crítico al formular la hipótesis es definir las variables que contiene de dos maneras:
 *   **Definición Conceptual:** Indica cómo se entenderá la variable en el estudio basándose en teorías o diccionarios especializados.
+
 *   **Definición Operacional:** Especifica los **procedimientos y actividades** que se realizarán para medir la variable en la realidad (por ejemplo, qué cuestionario o instrumento se aplicará).
 
 En la investigación cualitativa, a diferencia de la cuantitativa, las hipótesis suelen ser **emergentes**: no se establecen antes de recolectar datos, sino que se generan y refinan durante el proceso de inmersión en el campo.
@@ -128,23 +147,30 @@ A continuación se detallan los casos y condiciones para su formulación:
 ### 1. Investigaciones con alcance correlacional, explicativo o descriptivo de pronóstico
 Las hipótesis nulas y alternativas se deben formular únicamente en estudios que buscan probar relaciones o efectos entre variables, o predecir valores específicos.
 *   **Estudios correlacionales:** Cuando se busca determinar si dos o más variables están asociadas.
+
 *   **Estudios explicativos (causales):** Cuando se pretende establecer que una variable es la causa de otra.
+
 *   **Estudios descriptivos:** Solo cuando el investigador intenta **pronosticar un dato** o cifra específica en un tiempo determinado (por ejemplo, "la inflación del próximo semestre será de X%").
 
 ### 2. Casos para formular la Hipótesis Nula ($H_0$)
 La hipótesis nula es el reverso de la hipótesis de investigación ($H_i$) y se formula para **refutar o negar** lo que esta afirma. Su formulación es necesaria en los siguientes escenarios:
 *   **Pruebas de significancia estadística:** Se utiliza como el escenario neutro que el investigador intenta rechazar para validar su propia propuesta.
+
 *   **Comparación de grupos:** Para establecer que no existen diferencias significativas entre los grupos estudiados (por ejemplo, "no hay diferencia de género en los niveles de estrés").
+
 *   **Negación de causalidad:** Para postular que una variable independiente no tiene efecto sobre la dependiente.
 
 ### 3. Casos para formular la Hipótesis Alternativa ($H_a$)
 Estas hipótesis ofrecen descripciones o explicaciones distintas a las que proporcionan la hipótesis de investigación y la nula. Solo deben formularse cuando:
 *   **Existen otras posibilidades reales:** Solo se establecen cuando efectivamente hay más de dos opciones explicativas para el fenómeno. 
+
 *   **No se cubren todas las opciones con $H_i$ y $H_0$:** Si la hipótesis de investigación y la nula ya abarcan todas las posibilidades lógicas, no hay necesidad de establecer una alternativa. Por ejemplo, si $H_i$ dice "el coche es negro" y $H_0$ dice "el coche no es negro", una $H_a$ podría ser "el coche es azul".
 
 ### Consideraciones importantes
 *   **Investigación Cualitativa:** En este enfoque, generalmente **no se formulan hipótesis nulas ni alternativas**, ya que las hipótesis suelen ser emergentes, flexibles y no se someten a pruebas estadísticas de rechazo.
+
 *   **Pragmatismo en el reporte:** Aunque siempre se tienen presentes en la lógica estadística, en muchos protocolos o reportes académicos suele incluirse únicamente la hipótesis de investigación ($H_i$), ya que la nula se deduce fácilmente de ella.
+
 *   **Nivel de confianza:** La decisión de aceptar o rechazar la $H_0$ se basa usualmente en un nivel de significancia de **0.05**, lo que implica un 95% de seguridad en la generalización de los resultados.
 
 ### Cambio de las hipótesis entre el alcance correlacional y explicativo
@@ -154,18 +180,22 @@ A continuación se detallan las diferencias clave entre ambos tipos de hipótesi
 
 ### 1. El propósito central: Asociación frente a Causalidad
 *   **Hipótesis correlacionales:** Su objetivo es predecir cómo dos o más variables **co-varían** entre sí. Establecen que un cambio en una variable está vinculado a un cambio en otra, pero sin afirmar que una provoque a la otra.
+
 *   **Hipótesis explicativas (causales):** No solo afirman la relación entre variables, sino que proponen un **sentido de entendimiento** o una explicación de por qué ocurre el fenómeno. Su meta es establecer que una variable es la causa del efecto observado en otra.
 
 ### 2. Designación de variables (X e Y)
 *   **En el alcance correlacional:** No existe la noción de causa-efecto, por lo tanto, **no se habla de variables independientes ni dependientes**. Las variables se tratan como pares asociados donde ninguna antecede a la otra en términos de poder explicativo.
+
 *   **En el alcance explicativo:** Es indispensable identificar las variables como **independientes (X)**, que representan la supuesta causa, y **dependientes (Y)**, que representan el efecto o consecuencia.
 
 ### 3. El orden de los factores
 *   **Correlacionales:** El orden de las variables no altera la hipótesis; es lo mismo decir "a mayor X, mayor Y" que "a mayor Y, mayor X". La relación es simétrica en su planteamiento.
+
 *   **Explicativas:** El orden es crucial y **no se puede invertir**. La causa debe preceder temporalmente al efecto (aunque sea por milésimas de segundo) y debe existir una lógica de determinación de una sobre la otra.
 
 ### 4. Nivel de predicción y estructura
 *   **Correlacionales:** Tienen un valor explicativo **parcial**. Ayudan a predecir un valor aproximado en una variable conociendo el comportamiento de la otra, pero no explican el mecanismo de fondo.
+
 *   **Explicativas:** Son mucho más **estructuradas** y generalmente requieren de una base teórica más sólida que respalde la supuesta causalidad. Pueden ser bivariadas (una causa y un efecto) o multivariadas (múltiples causas que afectan uno o más efectos).
 
 ### Resumen comparativo
@@ -303,11 +333,3 @@ La selección no depende del azar, sino de criterios específicos, conveniencia 
 
 * **Muestreo Intencional o por Juicio**: El investigador selecciona a los sujetos basándose en su conocimiento experto sobre quién puede aportar la mejor información.
 
-
-**Referencias:**
-
-- [https://peru.universidadeuropea.com](https://peru.universidadeuropea.com/blog/tipos-de-muestreo/)
-- [https://corporatefinanceinstitute.com](https://translate.google.com/translate?u=https://corporatefinanceinstitute.com/resources/data-science/random-sampling/&hl=es&sl=en&tl=es&client=sge#:~:text=Hay%20cuatro%20m%C3%A9todos%20principales%20de%20muestreo%20aleatorio,muestreo%20estratificado%20y%20muestreo%20por%20conglomerados%20.)
-- [https://centrogeo.repositorioinstitucional.mx](https://centrogeo.repositorioinstitucional.mx/jspui/bitstream/1012/163/1/19-Tipos%20de%20Muestreo%20-%20%20Diplomado%20en%20An%C3%A1lisis%20de%20Informaci%C3%B3n%20Geoespacial.pdf#:~:text=Muestreo%20aleatorio%20estratificado.%20La%20poblaci%C3%B3n%20a%20partir,mediante%20un%20procedimiento%20aleatorio%20simple%20%28Figura%202%29.)
-- [https://www.surveylegend.com](https://translate.google.com/translate?u=https://www.surveylegend.com/sampling/types-of-survey-sampling/&hl=es&sl=en&tl=es&client=sge#:~:text=%C2%BFQu%C3%A9%20tipos%20de%20muestreo%20no%20probabil%C3%ADstico%20existen?,intencional%20y%20muestreo%20de%20bola%20de%20nieve.)
-- [https://masterresearch.mx](https://masterresearch.mx/tipos-de-muestras-en-investigacion-cualitativa/#:~:text=Muestreo%20de%20conveniencia:%20Se%20seleccionan%20los%20participantes,y%20econ%C3%B3mico%2C%20pero%20tambi%C3%A9n%20el%20menos%20riguroso.)

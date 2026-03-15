@@ -1,0 +1,59 @@
+{
+    "accuracy": 0.9072,
+    "precision": 0.8960244648318043,
+    "recall": 0.7813333333333333,
+    "f1_score": 0.8347578347578347,
+    "auc_roc": 0.9581196190476191,
+    "mejores_parametros": {
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 200
+    },
+    "importancia_caracteristicas": [
+        {
+            "Caracter\u00edstica": "HbA1c",
+            "Importancia": 0.3093208609724345
+        },
+        {
+            "Caracter\u00edstica": "IMC",
+            "Importancia": 0.13743114144263152
+        },
+        {
+            "Caracter\u00edstica": "Glucosa",
+            "Importancia": 0.13724067494852527
+        },
+        {
+            "Caracter\u00edstica": "Insulina",
+            "Importancia": 0.08875432552661362
+        },
+        {
+            "Caracter\u00edstica": "Edad",
+            "Importancia": 0.08651452093503814
+        },
+        {
+            "Caracter\u00edstica": "Presion_Sistolica",
+            "Importancia": 0.08405986136959037
+        },
+        {
+            "Caracter\u00edstica": "Presion_Diastolica",
+            "Importancia": 0.08113240763058904
+        },
+        {
+            "Caracter\u00edstica": "Actividad_Fisica",
+            "Importancia": 0.026510460087252875
+        },
+        {
+            "Caracter\u00edstica": "Antecedentes_Familiares",
+            "Importancia": 0.019895732616990697
+        },
+        {
+            "Caracter\u00edstica": "Sexo",
+            "Importancia": 0.016107113305067273
+        },
+        {
+            "Caracter\u00edstica": "Fuma",
+            "Importancia": 0.013032901165266755
+        }
+    ]
+}
