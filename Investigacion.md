@@ -218,6 +218,9 @@ A continuación se detallan las diferencias clave entre ambos tipos de hipótesi
 Es importante notar que para que una hipótesis explicativa sea válida, primero debe haberse demostrado que las variables están **correlacionadas** y que la relación es verosímil y no producto del azar o de una "correlación espuria".
 
 ## La investigación científica impulsa el éxito en el desarrollo profesional
+
+<center><img src="images/invest-desarrollo.jpg"></center>
+<br>
 La investigación científica no solo es una actividad académica, sino una herramienta indispensable que impulsa el éxito profesional al dotar a los graduados de competencias críticas, autonomía y una ventaja competitiva en el mercado laboral.
 
 A continuación, se detallan las diversas maneras en que la investigación potencia el desarrollo profesional según las fuentes:
@@ -251,6 +254,9 @@ La investigación es aplicable a cualquier profesión, no solo a la académica:
 En resumen, la investigación científica es un "motor de desarrollo" y un pilar fundamental para la excelencia profesional, permitiendo que las personas se adapten a entornos en constante cambio y resuelvan problemas reales con un método riguroso.
 
 ## Habilidades de investigación más valoradas por los empleadores
+
+<center><img src="images/invest-datos.webp"></center>
+
 Las habilidades de investigación más valoradas por los empleadores se centran en la capacidad de transformar datos en soluciones prácticas y decisiones estratégicas. Según las fuentes, las competencias más destacadas son las siguientes:
 
 ### 1. Pensamiento analítico y crítico
@@ -282,37 +288,6 @@ En un entorno tecnificado, se valora la capacidad de **aprender a aprender** y d
 
 Si te interesa profundizar en alguna de estas áreas, puedo ofrecerte crear una **guía de estudio o un reporte detallado** sobre cómo desarrollar competencias específicas de análisis de datos o redacción de informes técnicos.
 
-## ¿Cómo ayuda la investigación a un emprendedor a minimizar riesgos de mercado?
-
-La investigación científica y los estudios de mercado son herramientas indispensables para que un emprendedor pueda tomar decisiones informadas y, con ello, **minimizar los riesgos** antes y después del lanzamiento de un producto o idea de negocio.
-
-De acuerdo con las fuentes, la investigación ayuda a reducir la incertidumbre de las siguientes maneras:
-
-### 1. Evaluación de viabilidad antes del lanzamiento
-Antes de abrir cualquier negocio, es fundamental investigar variables críticas que determinan si la idea es factible en la realidad. La investigación permite indagar:
-*   **El tamaño del mercado y la competencia:** Conocer cuántos establecimientos similares existen en la zona, qué ventajas competitivas ofrecen y por qué algunos han cerrado.
-*   **Factores financieros:** Estimar gastos de operación, niveles de costo-beneficio, márgenes de utilidad y el precio ideal de venta.
-*   **Necesidades del cliente:** A través de la ruta cualitativa, un emprendedor puede comprender profundamente lo que los futuros clientes requieren y qué les ha funcionado (o no) a otros que intentaron abrir empresas similares.
-
-### 2. Detección de oportunidades y tendencias
-La investigación dota al emprendedor de habilidades para **reconocer oportunidades** y anticiparse a los cambios del entorno. Esto incluye:
-*   Identificar tendencias en las necesidades de los clientes y en los mercados.
-*   Probar nuevas ideas de negocio antes de realizar inversiones masivas.
-*   Encontrar fuentes de **ventaja competitiva** y mejorar el posicionamiento de la marca.
-
-### 3. Optimización y crecimiento post-lanzamiento
-Una vez que el negocio está en marcha, la investigación sigue siendo clave para garantizar su supervivencia y crecimiento. Por ejemplo:
-*   **Análisis de perfiles:** Permite elaborar perfiles de los clientes actuales para saber quiénes compran más y por qué razones prefieren el negocio sobre la competencia.
-*   **Mejora continua:** Ayuda a identificar qué aspectos de la experiencia de compra pueden optimizarse (servicio, rapidez, variedad de productos) mediante el feedback directo de los consumidores.
-*   **Análisis de resultados inesperados:** Si las ventas disminuyen, la investigación ayuda a diagnosticar las causas reales en lugar de basarse en suposiciones, permitiendo correcciones estratégicas precisas.
-
-### 4. Herramientas para la toma de decisiones
-El dominio de la metodología de investigación permite al emprendedor:
-*   **Establecer diagnósticos acertados:** Ya sea sobre problemas de ventas, producción o recursos humanos.
-*   **Realizar pruebas y experimentos:** Evaluar si un cambio en el producto o una nueva estrategia publicitaria realmente impacta en las ventas antes de implementarlo a gran escala.
-*   **Sistematizar la información:** Transformar datos dispersos en recomendaciones prácticas para la empresa.
-
-En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
 
 ## Colección de datos
 <br>
@@ -367,7 +342,8 @@ Son investigaciones que analizan profundamente una **unidad holística** (un ind
 <br>
 
 ## Muestreo
-
+<center><img src="images/invest-muestra.jpg"></center>
+<br>
 Los tipos de muestreo se dividen principalmente en dos grandes categorías: probabilístico y no probabilístico, dependiendo de si la selección de los individuos se basa en el azar o en el juicio del investigador.
 
 ### 1. Muestreo Probabilístico (Aleatorio)
@@ -392,3 +368,37 @@ La selección no depende del azar, sino de criterios específicos, conveniencia 
 
 * **Muestreo Intencional o por Juicio**: El investigador selecciona a los sujetos basándose en su conocimiento experto sobre quién puede aportar la mejor información.
 
+## ¿Cómo ayuda la investigación a un emprendedor a minimizar riesgos de mercado?
+
+<center><img src="images/invest-mercado.webp"></center>
+<br>
+
+La investigación científica y los estudios de mercado son herramientas indispensables para que un emprendedor pueda tomar decisiones informadas y, con ello, **minimizar los riesgos** antes y después del lanzamiento de un producto o idea de negocio.
+
+De acuerdo con las fuentes, la investigación ayuda a reducir la incertidumbre de las siguientes maneras:
+
+### 1. Evaluación de viabilidad antes del lanzamiento
+Antes de abrir cualquier negocio, es fundamental investigar variables críticas que determinan si la idea es factible en la realidad. La investigación permite indagar:
+*   **El tamaño del mercado y la competencia:** Conocer cuántos establecimientos similares existen en la zona, qué ventajas competitivas ofrecen y por qué algunos han cerrado.
+*   **Factores financieros:** Estimar gastos de operación, niveles de costo-beneficio, márgenes de utilidad y el precio ideal de venta.
+*   **Necesidades del cliente:** A través de la ruta cualitativa, un emprendedor puede comprender profundamente lo que los futuros clientes requieren y qué les ha funcionado (o no) a otros que intentaron abrir empresas similares.
+
+### 2. Detección de oportunidades y tendencias
+La investigación dota al emprendedor de habilidades para **reconocer oportunidades** y anticiparse a los cambios del entorno. Esto incluye:
+*   Identificar tendencias en las necesidades de los clientes y en los mercados.
+*   Probar nuevas ideas de negocio antes de realizar inversiones masivas.
+*   Encontrar fuentes de **ventaja competitiva** y mejorar el posicionamiento de la marca.
+
+### 3. Optimización y crecimiento post-lanzamiento
+Una vez que el negocio está en marcha, la investigación sigue siendo clave para garantizar su supervivencia y crecimiento. Por ejemplo:
+*   **Análisis de perfiles:** Permite elaborar perfiles de los clientes actuales para saber quiénes compran más y por qué razones prefieren el negocio sobre la competencia.
+*   **Mejora continua:** Ayuda a identificar qué aspectos de la experiencia de compra pueden optimizarse (servicio, rapidez, variedad de productos) mediante el feedback directo de los consumidores.
+*   **Análisis de resultados inesperados:** Si las ventas disminuyen, la investigación ayuda a diagnosticar las causas reales en lugar de basarse en suposiciones, permitiendo correcciones estratégicas precisas.
+
+### 4. Herramientas para la toma de decisiones
+El dominio de la metodología de investigación permite al emprendedor:
+*   **Establecer diagnósticos acertados:** Ya sea sobre problemas de ventas, producción o recursos humanos.
+*   **Realizar pruebas y experimentos:** Evaluar si un cambio en el producto o una nueva estrategia publicitaria realmente impacta en las ventas antes de implementarlo a gran escala.
+*   **Sistematizar la información:** Transformar datos dispersos en recomendaciones prácticas para la empresa.
+
+En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
