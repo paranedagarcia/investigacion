@@ -22,6 +22,76 @@ En la ingeniería, la investigación es el motor que impulsa el **progreso cient
 
 Finalmente, la investigación en ingeniería permite a los profesionales **innovar y mejorar la calidad** de productos y servicios. El dominio de la metodología de investigación otorga al ingeniero la autonomía necesaria para evaluar con rigor científico las innovaciones de su especialidad y aplicarlas eficientemente en su entorno laboral.
 <br>
+
+## La investigación científica impulsa el éxito en el desarrollo profesional
+
+<center><img src="images/invest-desarrollo.jpg"></center>
+<br>
+La investigación científica no solo es una actividad académica, sino una herramienta indispensable que impulsa el éxito profesional al dotar a los graduados de competencias críticas, autonomía y una ventaja competitiva en el mercado laboral.
+
+A continuación, se detallan las diversas maneras en que la investigación potencia el desarrollo profesional según las fuentes:
+
+### 1. Desarrollo de competencias altamente demandadas
+El aprendizaje de la metodología de la investigación permite adquirir habilidades que las empresas y organizaciones consideran fundamentales hoy en día. Entre ellas destacan:
+*   **Pensamiento crítico y analítico:** Permite identificar fortalezas y debilidades en diferentes enfoques y soluciones, lo cual es vital frente al aumento masivo de datos.
+*   **Resolución de problemas complejos:** La investigación enseña a observar, analizar e interpretar variables del entorno para proponer soluciones eficientes y creativas.
+*   **Toma de decisiones basada en evidencia:** Un profesional con formación en investigación puede intervenir con argumentos sólidos y estrategias respaldadas por datos, minimizando riesgos.
+*   **Creatividad e innovación:** Investigar fomenta la generación de nuevas ideas y la detección de oportunidades de mejora en productos y procesos.
+
+### 2. Ventaja competitiva y empleabilidad
+En un entorno globalizado, el dominio de los métodos de investigación es un factor diferenciador. 
+*   **Diferenciación profesional:** Aquellos que no dominan la investigación corren el riesgo de rezagarse frente a colegas que sí pueden procesar y analizar información de diversas fuentes para tomar decisiones óptimas.
+*   **Requisito de excelencia:** Las agencias acreditadoras y los estándares de calidad en empresas de producción suelen incluir criterios relacionados con los procesos de investigación.
+*   **Liderazgo:** Los estudios señalan que un verdadero líder posee visión, pensamiento estratégico y capacidad de análisis, todas características que se desarrollan aprendiendo a investigar.
+
+### 3. Autonomía y actualización permanente
+La investigación proporciona las herramientas necesarias para que el profesional se mantenga a la vanguardia en su área.
+*   **Aprendizaje autónomo:** Permite identificar, comprender y evaluar el rigor científico de las innovaciones en la especialidad de cada uno.
+*   **Lectura crítica:** Especialmente en áreas como la salud, saber investigar es crucial para interpretar correctamente las publicaciones científicas y los antecedentes clínicos, garantizando diagnósticos más certeros.
+*   **Libertad de acción:** Dominar la investigación otorga mayor autonomía y libertad para decidir y actuar con seguridad en el ejercicio profesional.
+
+### 4. Aplicación en diversos campos laborales
+La investigación es aplicable a cualquier profesión, no solo a la académica:
+*   **Administración y Negocios:** Para medir productividad, realizar diagnósticos organizacionales, entender el comportamiento del consumidor y evaluar la viabilidad de nuevos productos.
+*   **Salud:** Para realizar diagnósticos integrales (tanto orgánicos como psíquicos), conocer la prevalencia de enfermedades y optimizar tratamientos.
+*   **Ingeniería y Arquitectura:** Para probar materiales mediante experimentación, documentar procesos, analizar necesidades de habitabilidad y mejorar la vialidad o infraestructura.
+*   **Emprendimiento:** Para minimizar riesgos antes y después del lanzamiento de un negocio mediante estudios de mercado y detección de ventajas competitivas.
+
+En resumen, la investigación científica es un "motor de desarrollo" y un pilar fundamental para la excelencia profesional, permitiendo que las personas se adapten a entornos en constante cambio y resuelvan problemas reales con un método riguroso.
+
+## Habilidades de investigación más valoradas por los empleadores
+
+<center><img src="images/invest-datos.webp"></center>
+
+Las habilidades de investigación más valoradas por los empleadores se centran en la capacidad de transformar datos en soluciones prácticas y decisiones estratégicas. Según las fuentes, las competencias más destacadas son las siguientes:
+
+### 1. Pensamiento analítico y crítico
+Es una de las habilidades más demandadas, ya que permite identificar las fortalezas y debilidades de diferentes soluciones y enfoques. Los empleadores valoran la capacidad de **abstracción, análisis y síntesis**, así como un pensamiento que sea sistémico, reflexivo y lógico. Esta visión analítica es fundamental para que los profesionales intervengan con argumentos basados en la evidencia.
+
+### 2. Resolución de problemas complejos
+Esta competencia es considerada por los expertos como la más requerida en el mercado laboral actual. Implica la capacidad de observar, analizar e interpretar las variables del entorno para proponer soluciones eficientes y creativas ante situaciones que no tienen una respuesta obvia.
+
+### 3. Toma de decisiones basada en evidencia
+La capacidad de **juicio y toma de decisiones** es vital para analizar la creciente cantidad de datos que recogen las organizaciones y así optar por las estrategias óptimas. Casi el 75% de los egresados considera que esta es una de las habilidades más valoradas en el ámbito laboral.
+
+### 4. Búsqueda y procesamiento de información
+Los empleadores buscan profesionales que sepan buscar, seleccionar, procesar y analizar información procedente de fuentes diversas. En el área de análisis de datos, se valora específicamente la habilidad de **saber buscar datos** y construir bases de datos para su posterior interpretación.
+
+### 5. Análisis de datos y habilidades cuantitativas
+El dominio de herramientas de investigación incluye el conocimiento y manejo de:
+*   **Estadística y probabilidad:** Especialmente estadística descriptiva para el análisis de procesos.
+*   **Interpretación de datos:** Capacidad para generar tablas y gráficas que permitan extraer ideas y recomendaciones útiles para la empresa.
+*   **Detección de tendencias:** Habilidad para identificar oportunidades de negocio y cambios en las necesidades del mercado.
+
+### 6. Comunicación y redacción de informes
+No basta con investigar; es crucial saber comunicar los hallazgos. Los empleadores valoran la **edición y redacción de informes** de resultados, así como la comunicación verbal y escrita efectiva. Se espera que el profesional pueda presentar resultados de manera visual y clara para facilitar la implementación de sugerencias prácticas.
+
+### 7. Creatividad e innovación
+La investigación fomenta la capacidad de generar nuevas ideas y de detectar oportunidades de mejora en productos y procesos. Esta habilidad es considerada un rasgo esencial de liderazgo en las organizaciones modernas.
+
+### 8. Aprendizaje autónomo y actualización permanente
+En un entorno tecnificado, se valora la capacidad de **aprender a aprender** y de actualizarse continuamente. Esto permite a los profesionales evaluar con rigor científico las innovaciones de su propia especialidad y adaptarse a cambios constantes.
+
 <center><img src="images/invest-flujo.png"></center>
 <caption>Flujo de la investigación</caption>
 
@@ -217,76 +287,6 @@ A continuación se detallan las diferencias clave entre ambos tipos de hipótesi
 
 Es importante notar que para que una hipótesis explicativa sea válida, primero debe haberse demostrado que las variables están **correlacionadas** y que la relación es verosímil y no producto del azar o de una "correlación espuria".
 
-## La investigación científica impulsa el éxito en el desarrollo profesional
-
-<center><img src="images/invest-desarrollo.jpg"></center>
-<br>
-La investigación científica no solo es una actividad académica, sino una herramienta indispensable que impulsa el éxito profesional al dotar a los graduados de competencias críticas, autonomía y una ventaja competitiva en el mercado laboral.
-
-A continuación, se detallan las diversas maneras en que la investigación potencia el desarrollo profesional según las fuentes:
-
-### 1. Desarrollo de competencias altamente demandadas
-El aprendizaje de la metodología de la investigación permite adquirir habilidades que las empresas y organizaciones consideran fundamentales hoy en día. Entre ellas destacan:
-*   **Pensamiento crítico y analítico:** Permite identificar fortalezas y debilidades en diferentes enfoques y soluciones, lo cual es vital frente al aumento masivo de datos.
-*   **Resolución de problemas complejos:** La investigación enseña a observar, analizar e interpretar variables del entorno para proponer soluciones eficientes y creativas.
-*   **Toma de decisiones basada en evidencia:** Un profesional con formación en investigación puede intervenir con argumentos sólidos y estrategias respaldadas por datos, minimizando riesgos.
-*   **Creatividad e innovación:** Investigar fomenta la generación de nuevas ideas y la detección de oportunidades de mejora en productos y procesos.
-
-### 2. Ventaja competitiva y empleabilidad
-En un entorno globalizado, el dominio de los métodos de investigación es un factor diferenciador. 
-*   **Diferenciación profesional:** Aquellos que no dominan la investigación corren el riesgo de rezagarse frente a colegas que sí pueden procesar y analizar información de diversas fuentes para tomar decisiones óptimas.
-*   **Requisito de excelencia:** Las agencias acreditadoras y los estándares de calidad en empresas de producción suelen incluir criterios relacionados con los procesos de investigación.
-*   **Liderazgo:** Los estudios señalan que un verdadero líder posee visión, pensamiento estratégico y capacidad de análisis, todas características que se desarrollan aprendiendo a investigar.
-
-### 3. Autonomía y actualización permanente
-La investigación proporciona las herramientas necesarias para que el profesional se mantenga a la vanguardia en su área.
-*   **Aprendizaje autónomo:** Permite identificar, comprender y evaluar el rigor científico de las innovaciones en la especialidad de cada uno.
-*   **Lectura crítica:** Especialmente en áreas como la salud, saber investigar es crucial para interpretar correctamente las publicaciones científicas y los antecedentes clínicos, garantizando diagnósticos más certeros.
-*   **Libertad de acción:** Dominar la investigación otorga mayor autonomía y libertad para decidir y actuar con seguridad en el ejercicio profesional.
-
-### 4. Aplicación en diversos campos laborales
-La investigación es aplicable a cualquier profesión, no solo a la académica:
-*   **Administración y Negocios:** Para medir productividad, realizar diagnósticos organizacionales, entender el comportamiento del consumidor y evaluar la viabilidad de nuevos productos.
-*   **Salud:** Para realizar diagnósticos integrales (tanto orgánicos como psíquicos), conocer la prevalencia de enfermedades y optimizar tratamientos.
-*   **Ingeniería y Arquitectura:** Para probar materiales mediante experimentación, documentar procesos, analizar necesidades de habitabilidad y mejorar la vialidad o infraestructura.
-*   **Emprendimiento:** Para minimizar riesgos antes y después del lanzamiento de un negocio mediante estudios de mercado y detección de ventajas competitivas.
-
-En resumen, la investigación científica es un "motor de desarrollo" y un pilar fundamental para la excelencia profesional, permitiendo que las personas se adapten a entornos en constante cambio y resuelvan problemas reales con un método riguroso.
-
-## Habilidades de investigación más valoradas por los empleadores
-
-<center><img src="images/invest-datos.webp"></center>
-
-Las habilidades de investigación más valoradas por los empleadores se centran en la capacidad de transformar datos en soluciones prácticas y decisiones estratégicas. Según las fuentes, las competencias más destacadas son las siguientes:
-
-### 1. Pensamiento analítico y crítico
-Es una de las habilidades más demandadas, ya que permite identificar las fortalezas y debilidades de diferentes soluciones y enfoques. Los empleadores valoran la capacidad de **abstracción, análisis y síntesis**, así como un pensamiento que sea sistémico, reflexivo y lógico. Esta visión analítica es fundamental para que los profesionales intervengan con argumentos basados en la evidencia.
-
-### 2. Resolución de problemas complejos
-Esta competencia es considerada por los expertos como la más requerida en el mercado laboral actual. Implica la capacidad de observar, analizar e interpretar las variables del entorno para proponer soluciones eficientes y creativas ante situaciones que no tienen una respuesta obvia.
-
-### 3. Toma de decisiones basada en evidencia
-La capacidad de **juicio y toma de decisiones** es vital para analizar la creciente cantidad de datos que recogen las organizaciones y así optar por las estrategias óptimas. Casi el 75% de los egresados considera que esta es una de las habilidades más valoradas en el ámbito laboral.
-
-### 4. Búsqueda y procesamiento de información
-Los empleadores buscan profesionales que sepan buscar, seleccionar, procesar y analizar información procedente de fuentes diversas. En el área de análisis de datos, se valora específicamente la habilidad de **saber buscar datos** y construir bases de datos para su posterior interpretación.
-
-### 5. Análisis de datos y habilidades cuantitativas
-El dominio de herramientas de investigación incluye el conocimiento y manejo de:
-*   **Estadística y probabilidad:** Especialmente estadística descriptiva para el análisis de procesos.
-*   **Interpretación de datos:** Capacidad para generar tablas y gráficas que permitan extraer ideas y recomendaciones útiles para la empresa.
-*   **Detección de tendencias:** Habilidad para identificar oportunidades de negocio y cambios en las necesidades del mercado.
-
-### 6. Comunicación y redacción de informes
-No basta con investigar; es crucial saber comunicar los hallazgos. Los empleadores valoran la **edición y redacción de informes** de resultados, así como la comunicación verbal y escrita efectiva. Se espera que el profesional pueda presentar resultados de manera visual y clara para facilitar la implementación de sugerencias prácticas.
-
-### 7. Creatividad e innovación
-La investigación fomenta la capacidad de generar nuevas ideas y de detectar oportunidades de mejora en productos y procesos. Esta habilidad es considerada un rasgo esencial de liderazgo en las organizaciones modernas.
-
-### 8. Aprendizaje autónomo y actualización permanente
-En un entorno tecnificado, se valora la capacidad de **aprender a aprender** y de actualizarse continuamente. Esto permite a los profesionales evaluar con rigor científico las innovaciones de su propia especialidad y adaptarse a cambios constantes.
-
-Si te interesa profundizar en alguna de estas áreas, puedo ofrecerte crear una **guía de estudio o un reporte detallado** sobre cómo desarrollar competencias específicas de análisis de datos o redacción de informes técnicos.
 
 
 ## Colección de datos
