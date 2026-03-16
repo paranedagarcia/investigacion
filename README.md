@@ -1,6 +1,7 @@
 # Metodología de la Investigación
 <center><img src="images/invest-1.jpg"></center>
 
+
 Contenido del taller de Metodología de la Investigación.
 
 **[Investigacion.md](https://github.com/paranedagarcia/investigacion/blob/main/Investigacion.md)**: Contenido teórico relativo a la metodología de investigación presentada en el taller.

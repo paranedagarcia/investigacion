@@ -307,6 +307,58 @@ El dominio de la metodología de investigación permite al emprendedor:
 
 En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
 
+## Colección de datos
+<br>
+<center><img src="images/invest-recoleccion.jpg"></center>
+
+<br>
+Los métodos de recolección de datos son fundamentales para obtener información que permita responder al planteamiento de una investigación, variando según si el enfoque es cuantitativo, cualitativo o mixto. A continuación se describen los métodos principales solicitados:
+
+### 1. Entrevistas
+La entrevista es una conversación especializada con un objetivo claro de investigación. 
+*   **Diferencias:** En la **ruta cuantitativa**, es estructurada y estandarizada, aplicando el mismo instrumento y ritmo a todos los participantes para obtener datos precisos y cerrados. En la **ruta cualitativa**, es más íntima, flexible y abierta, permitiendo la construcción conjunta de significados entre entrevistador y entrevistado.
+
+*   **Casos de uso:** Se utilizan cuando el fenómeno es difícil de observar directamente (como la depresión o la violencia en el hogar) o cuando se requieren perspectivas internas y profundas de los participantes.
+
+### 2. Grupos de Discusión (Grupos de Enfoque)
+Consisten en reuniones de grupos pequeños o medianos (de 3 a 10 personas) que conversan sobre un tema en un ambiente relajado bajo la conducción de un moderador.
+*   **Diferencias:** A diferencia de la entrevista individual, su centro de atención es la **narrativa colectiva** y la interacción entre los miembros para ver cómo se construyen significados grupalmente.
+
+*   **Casos de uso:** Son ideales para captar diversas percepciones sobre nuevos productos, evaluar problemas de atención en hospitales o entender motivos de comportamientos sociales complejos.
+
+### 3. Encuestas (Cuestionarios)
+Es la técnica más utilizada en las ciencias sociales y consiste en un conjunto de preguntas respecto a una o más variables a medir.
+*   **Diferencias:** Pueden contener preguntas **cerradas** (opciones delimitadas que facilitan el análisis estadístico) o **abiertas** (respuestas libres que profundizan en opiniones pero son más difíciles de codificar).
+
+*   **Casos de uso:** Se emplean para describir tendencias en grandes poblaciones, como censos nacionales, encuestas de opinión electoral o estudios de clima organizacional.
+
+### 4. Observación
+Es un proceso activo de registro sistemático de comportamientos y situaciones observables.
+*   **Diferencias:** En el enfoque cualitativo, requiere el uso de **todos los sentidos** y puede ser **participante** (el investigador se involucra en el grupo) o **no participante**. En el cuantitativo, se enfoca en el registro de conductas específicas organizadas en categorías predeterminadas.
+
+*   **Casos de uso:** Análisis de conflictos familiares, violencia en estadios, aceptación de productos en supermercados o el seguimiento de síntomas físicos en pacientes.
+
+### 5. Documentos y Registros
+Implica la revisión de materiales producidos por personas, grupos u organizaciones que narran su historia o estatus actual.
+*   **Diferencias:** Incluyen desde registros públicos y archivos oficiales hasta documentos personales como diarios, cartas, fotografías y grabaciones de audio o video.
+
+*   **Casos de uso:** Útiles para conocer antecedentes históricos de un ambiente, comparar indicadores económicos entre naciones o analizar pruebas forenses y criminalísticas.
+
+### 6. Estudios de Caso
+Son investigaciones que analizan profundamente una **unidad holística** (un individuo, una familia, una empresa o un evento histórico).
+*   **Diferencias:** No son un método en sí mismos, sino una clase de diseño que puede integrar métodos cuantitativos, cualitativos o mixtos para responder a un problema específico.
+
+*   **Casos de uso:** Determinar las causas de un accidente aéreo, caracterizar la personalidad de una figura histórica o entender profundamente el proceso de una enfermedad específica en un paciente.
+
+### Resumen de Diferencias Principales
+| Método | Enfoque Cuantitativo (Meta: Medir) | Enfoque Cualitativo (Meta: Comprender) |
+| :--- | :--- | :--- |
+| **Interacción** | Impersonal y estandarizada. | Empática y flexible. |
+| **Instrumento** | Cuestionarios y escalas preestablecidas. | El propio investigador asistido por guías abiertas. |
+| **Ambiente** | Puede ser artificial o controlado. | Natural y cotidiano de los participantes. |
+
+<br>
+
 ## Muestreo
 
 Los tipos de muestreo se dividen principalmente en dos grandes categorías: probabilístico y no probabilístico, dependiendo de si la selección de los individuos se basa en el azar o en el juicio del investigador.
