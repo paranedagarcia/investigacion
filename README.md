@@ -1,4 +1,5 @@
 # Metodología de la Investigación
+<center><img src="images/invest-1.jpg"></center>
 
 Contenido del taller de Metodología de la Investigación.
 
