@@ -38,7 +38,17 @@ Desarrollar e implementar un modelo de machine learning para la predicción temp
 
 - Seleccionar el modelo óptimo para la predicción de diabetes
 
-## Variables
+<br><br>
+## Variables relevantes
+**Presión sistólica**
+
+La presión sistólica es la cifra superior en una medición de presión arterial y mide la fuerza de la sangre contra las paredes arteriales cuando el corazón se contrae. Un rango normal es inferior a 120 mmHg. Una presión sistólica > 130 mmHg indica hipertensión, siendo crucial para evaluar riesgos cardiovasculares, especialmente en adultos mayores.
+
+**Presión disatolica**
+
+La presión diastólica es la cifra inferior (o segunda) en una lectura de presión arterial, midiendo la fuerza de la sangre contra las paredes arteriales mientras el corazón se relaja entre latidos. Un nivel normal es inferior a 80 mmHg, siendo 80-89 mmHg hipertensión grado 1 y >= 90 mmHg grado 2.
+
+**HbA1c** 
 
 La hemoglobina glicosilada (**HbA1c**) es un examen de sangre crucial que mide el nivel promedio de glucosa en sangre de los últimos 2 a 3 meses. Se utiliza para diagnosticar la prediabetes (5,7%-6,4%) y la diabetes (6,5% o más), siendo la meta para la mayoría de diabéticos un valor inferior al 7%.
 

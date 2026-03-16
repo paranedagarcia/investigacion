@@ -6,7 +6,7 @@ Contenido del taller de Metodología de la Investigación.
 
 **[Presentación.pdf](https://github.com/paranedagarcia/investigacion/blob/main/Presentacion.pdf)**: Archivo de presentación del taller.
 
-**[Notebook](https://github.com/paranedagarcia/investigacion/blob/main/notebook/README.md)**: Contiene un ejemplo de uso con Ciencia de Datos para abordar un caso de investigación.
+**[Notebook](https://github.com/paranedagarcia/investigacion/blob/main/notebook/README.md)**: Contiene un ejemplo de uso con Ciencia de Datos para abordar un caso de investigación. Prediccion de Diabetes 2.
 
 **[Referencias](https://github.com/paranedagarcia/investigacion/blob/main/Referencias.md)**: Bibliografía recomendada.
 
