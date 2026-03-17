@@ -6,6 +6,7 @@
 La **investigación** se define como un conjunto de **procesos sistemáticos, críticos y empíricos** que se aplican al estudio de un fenómeno o problema con el objetivo de ampliar su conocimiento. Esta actividad es, en esencia, rigurosa, organizada y cuidadosa, asegurando que los hechos no se dejen a la casualidad.
 
 Su importancia general reside en dos propósitos fundamentales: la **producción de nuevo conocimiento y teorías** (investigación básica) y la **solución de problemas prácticos** (investigación aplicada). Para cualquier profesional, investigar es una herramienta indispensable para alcanzar el éxito, la competitividad y una toma de decisiones basada en evidencia.
+<br>
 
 ### Importancia en el ámbito de las ciencias de la ingeniería
 
@@ -58,6 +59,7 @@ La investigación es aplicable a cualquier profesión, no solo a la académica:
 *   **Emprendimiento:** Para minimizar riesgos antes y después del lanzamiento de un negocio mediante estudios de mercado y detección de ventajas competitivas.
 
 En resumen, la investigación científica es un "motor de desarrollo" y un pilar fundamental para la excelencia profesional, permitiendo que las personas se adapten a entornos en constante cambio y resuelvan problemas reales con un método riguroso.
+<br>
 
 ## Habilidades de investigación más valoradas por los empleadores
 
@@ -94,6 +96,7 @@ En un entorno tecnificado, se valora la capacidad de **aprender a aprender** y d
 
 <center><img src="images/invest-flujo.png"></center>
 <caption>Flujo de la investigación</caption>
+<br>
 
 ## Plantear objetivos de investigación
 
@@ -173,7 +176,7 @@ Es fundamental evaluar la factibilidad del estudio basándose en los recursos hu
 | **Datos** | Numéricos y estadísticos | Narrativas y significados subjetivos | Combinación de múltiples tipos de evidencia |
 
 En última instancia, el investigador debe adoptar una **postura pragmática**, guiándose por lo que mejor funcione para resolver su pregunta de investigación específica.
-
+<br>
 
 ## Hipótesis
 La elaboración de una hipótesis de investigación es un proceso sistemático que transforma el planteamiento del problema y la revisión de la literatura en **explicaciones tentativas** del fenómeno estudiado. Según las fuentes, estos son los pasos y requisitos clave para elaborarla:
@@ -288,8 +291,9 @@ A continuación se detallan las diferencias clave entre ambos tipos de hipótesi
 Es importante notar que para que una hipótesis explicativa sea válida, primero debe haberse demostrado que las variables están **correlacionadas** y que la relación es verosímil y no producto del azar o de una "correlación espuria".
 
 
+<br>
 
-## Colección de datos
+## Recolección de datos
 <br>
 <center><img src="images/invest-recoleccion.jpg"></center>
 
@@ -367,6 +371,7 @@ La selección no depende del azar, sino de criterios específicos, conveniencia 
 * **Muestreo de Bola de Nieve**: Se utiliza cuando la población es difícil de localizar; los participantes actuales reclutan a nuevos conocidos para el estudio.
 
 * **Muestreo Intencional o por Juicio**: El investigador selecciona a los sujetos basándose en su conocimiento experto sobre quién puede aportar la mejor información.
+<br>
 
 ## ¿Cómo ayuda la investigación a un emprendedor a minimizar riesgos de mercado?
 
@@ -410,6 +415,7 @@ El dominio de la metodología de investigación permite al emprendedor:
 *   **Sistematizar la información:** Transformar datos dispersos en recomendaciones prácticas para la empresa.
 
 En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
+<br>
 
 # Uso de la Inteligencia Artificial (IA) en la investigación
 <center><img src="images/invest-ia.png"></center>
