@@ -19,6 +19,7 @@ Contenido del taller de Metodología de la Investigación.
 
 Puedes ver el ejemplo completo en el [enlace directo a Diabetes2](https://colab.research.google.com/drive/1x51HyvYWfxPB7DHVbQyD35Cq5HL8kq33?usp=sharing)
 <br><br>
+
 # Instalación
 Si quieres probar una investigación por tu cuenta, en el área de Ciencia de Datos, estos son los pasos para crear un entorno de desarrollo propio en tu computador.
 
@@ -26,7 +27,7 @@ Si quieres probar una investigación por tu cuenta, en el área de Ciencia de Da
 ## Requisitos
 Asegúrate de instalarlos en el orden que se indica.
 
-### 1. Python v 3.13
+### 1. Python v3.13
 #### 1.1. Windows
 utiliza el enlace https://www.python.org/downloads/windows/
 
@@ -112,4 +113,4 @@ Para cargar las dependencias del proyecto:
 uv sync
 ```
 
-Para ejecutar los archivos `.ipynb` dentro de la carpeta "notebook"  ejecuta `Run All` desde el menú superior, al abrir cada uno de los archivos (en el orden establecido por su número)
+Para ejecutar los archivos `.ipynb` dentro de la carpeta "notebook"  ejecuta `Run All` desde el menú superior al abrir cada uno de los archivos (en el orden establecido por su número).
