@@ -380,30 +380,40 @@ De acuerdo con las fuentes, la investigación ayuda a reducir la incertidumbre d
 ### 1. Evaluación de viabilidad antes del lanzamiento
 Antes de abrir cualquier negocio, es fundamental investigar variables críticas que determinan si la idea es factible en la realidad. La investigación permite indagar:
 *   **El tamaño del mercado y la competencia:** Conocer cuántos establecimientos similares existen en la zona, qué ventajas competitivas ofrecen y por qué algunos han cerrado.
+
 *   **Factores financieros:** Estimar gastos de operación, niveles de costo-beneficio, márgenes de utilidad y el precio ideal de venta.
+
 *   **Necesidades del cliente:** A través de la ruta cualitativa, un emprendedor puede comprender profundamente lo que los futuros clientes requieren y qué les ha funcionado (o no) a otros que intentaron abrir empresas similares.
 
 ### 2. Detección de oportunidades y tendencias
 La investigación dota al emprendedor de habilidades para **reconocer oportunidades** y anticiparse a los cambios del entorno. Esto incluye:
 *   Identificar tendencias en las necesidades de los clientes y en los mercados.
+
 *   Probar nuevas ideas de negocio antes de realizar inversiones masivas.
+
 *   Encontrar fuentes de **ventaja competitiva** y mejorar el posicionamiento de la marca.
 
 ### 3. Optimización y crecimiento post-lanzamiento
 Una vez que el negocio está en marcha, la investigación sigue siendo clave para garantizar su supervivencia y crecimiento. Por ejemplo:
 *   **Análisis de perfiles:** Permite elaborar perfiles de los clientes actuales para saber quiénes compran más y por qué razones prefieren el negocio sobre la competencia.
+
 *   **Mejora continua:** Ayuda a identificar qué aspectos de la experiencia de compra pueden optimizarse (servicio, rapidez, variedad de productos) mediante el feedback directo de los consumidores.
+
 *   **Análisis de resultados inesperados:** Si las ventas disminuyen, la investigación ayuda a diagnosticar las causas reales en lugar de basarse en suposiciones, permitiendo correcciones estratégicas precisas.
 
 ### 4. Herramientas para la toma de decisiones
 El dominio de la metodología de investigación permite al emprendedor:
 *   **Establecer diagnósticos acertados:** Ya sea sobre problemas de ventas, producción o recursos humanos.
+
 *   **Realizar pruebas y experimentos:** Evaluar si un cambio en el producto o una nueva estrategia publicitaria realmente impacta en las ventas antes de implementarlo a gran escala.
+
 *   **Sistematizar la información:** Transformar datos dispersos en recomendaciones prácticas para la empresa.
 
 En conclusión, la investigación actúa como un **motor de desarrollo y un factor diferenciador** que permite al emprendedor transitar de una "idea vaga" a un modelo de negocio con mayores probabilidades de éxito, basando sus movimientos en evidencia empírica y no solo en la intuición.
 
 # Uso de la Inteligencia Artificial (IA) en la investigación
+<center><img src="images/invest-ia.png"></center>
+<br>
 
 Es claro que la inteligencia artificial (IA) revoluciona la investigación científica acelerando todas las etapas, desde la formulación de hipótesis hasta la publicación, permitiendo el análisis automatizado de grandes conjuntos de datos, la revisión bibliográfica rápida y la simulación de modelos complejos. Sus principales usos incluyen la detección de patrones, la redacción de manuscritos, la mejora de imágenes y la gestión de referencias, aumentando la productividad y reduciendo tiempos.
 
